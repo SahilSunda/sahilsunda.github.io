@@ -38,7 +38,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>ABOUT ME</b>
 <br><br>
 ✔ 
-✔ Ongoing Projects & Internship : <br><b><br>* Crop Diesase Detection using Machine Learning <br>* Software Developer Intern at Geowiz Consultancy <br>* Data Analysis in Criminal Justice <br>* SPO App Development </b><br><br>
+✔ Completed Projects & Internship : <br><b><br>* Crop Detection using Machine Learning <br>* Software Developer Intern at Geowiz Consultancy <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Data Analysis in Criminal Justice <br>* SPO App Development <br>* Web Developer Intern at TRPWS </b><br><br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br><br><br><br>
  
 
